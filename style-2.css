@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    background-image: url("baground99.jpg");
+    height: 100%; 
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.logo-text{
+    color: rgb(34, 85, 127);
+    font-size: 35px;
+    font-family: Arial;
+    padding-left: 20px;
+    padding-top: 10px;
+    float: left;
+    cursor: pointer;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+.heading-1{
+    text-align: center;
+    padding-top: 65px;
+    font-family: 'Tinos', serif;
+    color: rgb(87, 84, 67)
+}
+.backtohome{
+    text-decoration: none;
+    text-align: left;
+    padding-left: 0px;
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(34, 85, 127);
+}
+.art-1{
+    width: 300px;
+    height: 300px;
+    padding-left: 133px;
+    padding-top: 31px;
+}
+
+.art-2{
+    width: 300px;
+    height: 300px;
+    padding-left: 360px;
+    padding-top: 31px;
+}
+
+.art-3{
+    width: 300px;
+    height: 300px;
+    padding-left: 456px;
+    padding-top: 31px;
+}
+
+.art-4{
+    width: 300px;
+    height: 300px;
+    padding-left: 133px;
+    padding-top: 31px;
+}
+
+.art-5{
+    width: 300px;
+    height: 300px;
+    padding-left: 360px;
+    padding-top: 31px;
+}
+
+.btn{
+    margin-left: 500px;
+    border-radius: 8px;
+    cursor: pointer;
+    background-color:black;
+}
+.btn:hover{
+    background: rgb(94, 85, 85);
+    transition: 0.04s ease;
+}
